@@ -1,4 +1,4 @@
-Function ResolvePSPath.ps1 {
+Function ResolvePSPath {
     
     [cmdletbinding()]
     Param($path)

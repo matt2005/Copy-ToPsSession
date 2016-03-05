@@ -1,5 +1,3 @@
-Import-Module C:\VirtualDrives\Copy-ToPSSession
-
 
 Class CPSFileMaster {
     
